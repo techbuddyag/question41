@@ -1,0 +1,2 @@
+Process P1 is writing on the shared file.
+File Writing Complete
